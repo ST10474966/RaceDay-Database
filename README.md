@@ -78,4 +78,3 @@ SELECT * FROM Route;
 SELECT * FROM Event;
 SELECT * FROM Category;
 SELECT * FROM Enrolment;
-SELECT * FROM Result;
