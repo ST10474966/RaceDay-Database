@@ -18,7 +18,7 @@ The database contains 8 main tables:
 2. `Participant` - Stores participant details.
 3. `Organiser` - Stores organiser information.
 4. `Route` - Stores race route information.
-5. `Event` - Stores racing event information.
+
 
 
 
