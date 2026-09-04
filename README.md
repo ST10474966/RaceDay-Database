@@ -42,7 +42,7 @@ The database uses:
 - Unique Constraints
 - Check Constraints
 - Default Constraints
-- Identity Columns
+
 
 -- Sample Data
 
