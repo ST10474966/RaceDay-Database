@@ -74,7 +74,7 @@ Use the following SQL statements to check the database:
 SELECT * FROM UserAccount;
 SELECT * FROM Participant;
 SELECT * FROM Organiser;
-SELECT * FROM Route;
+
 
 
 
