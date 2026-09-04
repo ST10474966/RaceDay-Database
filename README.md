@@ -73,7 +73,7 @@ Use the following SQL statements to check the database:
 ```sql
 SELECT * FROM UserAccount;
 SELECT * FROM Participant;
-SELECT * FROM Organiser;
+
 
 
 
