@@ -71,7 +71,7 @@ The database contains sample data for:
 Use the following SQL statements to check the database:
 
 ```sql
-SELECT * FROM UserAccount;
+
 
 
 
