@@ -76,5 +76,5 @@ SELECT * FROM Participant;
 SELECT * FROM Organiser;
 SELECT * FROM Route;
 SELECT * FROM Event;
-SELECT * FROM Category;
+
 
