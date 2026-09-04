@@ -21,7 +21,7 @@ The database contains 8 main tables:
 5. `Event` - Stores racing event information.
 6. `Category` - Stores categories for each event.
 7. `Enrolment` - Records participant enrolments.
-8. `Result` - Stores race results.
+
 
 -- Relationships
 
