@@ -54,7 +54,7 @@ The database contains sample data for:
 - 3 Events
 - 6 Categories
 - 4 Enrolments
-- 2 Results
+
 
 -- How to Run
 
