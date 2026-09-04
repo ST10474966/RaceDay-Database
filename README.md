@@ -31,7 +31,7 @@ The database contains 8 main tables:
 - `Event` is linked to `Route`.
 - `Category` is linked to `Event`.
 - `Enrolment` is linked to `Event`, `Participant`, and `Category`.
-- `Result` is linked to `Enrolment`.
+
 
 -- Database Features
 
