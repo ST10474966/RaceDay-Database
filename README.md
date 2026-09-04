@@ -29,7 +29,7 @@ The database contains 8 main tables:
 - `Organiser` is linked to `UserAccount`.
 - `Event` is linked to `Organiser`.
 - `Event` is linked to `Route`.
-- `Category` is linked to `Event`.
+
 - `Enrolment` is linked to `Event`, `Participant`, and `Category`.
 
 
