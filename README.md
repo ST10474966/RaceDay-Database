@@ -68,7 +68,7 @@ The database contains sample data for:
 
 -- Database Verification
 
-Use the following SQL statements to check the database:
+
 
 
 
