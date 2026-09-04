@@ -63,7 +63,7 @@ The database contains sample data for:
 3. Execute the database creation script.
 4. Select the `RaceDay` database.
 5. Execute the table creation statements.
-6. Execute the sample data INSERT statements.
+
 
 
 -- Database Verification
